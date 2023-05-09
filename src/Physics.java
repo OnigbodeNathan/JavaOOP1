@@ -1,5 +1,5 @@
 public class Physics {
-    private float gravity = 9.81F;
+    public float gravity = 9.81F;
 
 }
 
